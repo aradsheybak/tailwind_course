@@ -30,3 +30,6 @@ Steps to create tailwind css with Vite:
 AND, DONE ... Now you can use tailwind css. go to cheat sheet and test components.
 
 *** the one important thing you must know is, Tailwind is fully customizable, you can define your custom colors in theme section in tailwind.config.js. go to tailwind.config.js in my project to know how you can define a list of colors and then go to app.jsx and find colors name to find out how you can use that colors in your project.
+
+
+*** if you want to set font to your texts,buttons and ...  in the website, go to index.css and do like i do. mind that replace your font with the font i defined.
