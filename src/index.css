@@ -16,7 +16,7 @@
     /* below line is same of top 3 lines and it's using tailwind 
     component in customizing a component  */
 
-    @apply flex items-center justify-center
+    @apply flex items-center justify-center;
     width: 300px;
     height: 100px;
     background-color: theme("colors.light-blue");
