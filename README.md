@@ -36,3 +36,6 @@ AND, DONE ... Now you can use tailwind css. go to cheat sheet and test component
 
 
 *** As i said before, Tailwind is fully customizable, that means is, you also can customize tailwind components. for this, go to index.css and write @layer component {}, in brackets call the component you want to customize it. for example go to index.css in my project and see what i do.
+
+
+*** you can use tailwind components when you try to custom a component, for this, use @apply annotation and then call tailwind components, for better understanding go to index.css and see card section and see how i use @apply annotation 
