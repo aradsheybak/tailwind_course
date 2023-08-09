@@ -33,3 +33,6 @@ AND, DONE ... Now you can use tailwind css. go to cheat sheet and test component
 
 
 *** if you want to set font to your texts,buttons and ...  in the website, go to index.css and do like i do. mind that replace your font with the font i defined.
+
+
+*** As i said before, Tailwind is fully customizable, that means is, you also can customize tailwind components. for this, go to index.css and write @layer component {}, in brackets call the component you want to customize it. for example go to index.css in my project and see what i do.
